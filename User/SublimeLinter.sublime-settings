@@ -1,0 +1,9 @@
+// SublimeLinter Settings - User
+{
+	"debug": true,
+    "paths": {
+        "windows": [
+        	"C:/Program Files/nodejs/node.exe"
+        ]
+    }
+}

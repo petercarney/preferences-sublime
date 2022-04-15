@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Origami",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-phpcs",
+		"Terminus",
+	],
+}
