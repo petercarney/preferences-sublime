@@ -5,8 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"ColorPicker",
 		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
 		"Open In Browser",
 		"Origami",
 		"Package Control",
