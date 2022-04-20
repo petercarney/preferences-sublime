@@ -5,14 +5,28 @@
 	],
 	"installed_packages":
 	[
-		"Babel",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"Open In Browser",
 		"Origami",
 		"Package Control",
+		"PackageDev",
+		"Stino",
 		"SublimeLinter",
-		"SublimeLinter-contrib-jslint",
-		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
-		"SublimeLinter-phpcs",
+		"SublimeLinter-php",
+		"SublimeLinter-stylelint",
 		"Terminus",
+		"TortoiseSVN",
+		"View In Browser",
+	],
+	"repositories":
+	[
+		"https://github.com/gepd/Stino/tree/new-stino"
 	],
 }
