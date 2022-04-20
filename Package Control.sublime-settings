@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ColorPicker",
+		"Emmet",
+		"Open In Browser",
+		"Origami",
+		"Package Control",
+		"PackageDev",
+		"Stino",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-stylelint",
+		"Terminus",
+		"TortoiseSVN",
+		"View In Browser",
+	],
+	"repositories":
+	[
+		"https://github.com/gepd/Stino/tree/new-stino"
+	],
+}

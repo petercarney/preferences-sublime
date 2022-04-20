@@ -1,0 +1,9 @@
+{
+	"ignored_packages":
+	[
+		"Open In Browser",
+		"Vintage",
+	],
+	"font_size": 9,
+	"theme": "auto",
+}
