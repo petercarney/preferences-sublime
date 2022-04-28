@@ -2,5 +2,10 @@
 *
 # ... except preferences and package list
 !.gitignore
-!Preferences.sublime-settings
+!Default (Windows).sublime-keymap
+!Emmet.sublime-keymap
 !Package Control.sublime-settings
+!Package Control.user-ca-bundle
+!Preferences.sublime-settings
+!SublimeLinter.sublime-settings
+!Terminus.sublime-settings
